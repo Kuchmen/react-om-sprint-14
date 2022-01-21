@@ -16,7 +16,7 @@ Please write unit tests to check functionality of all modules (components, servi
 All testing modules should be placed at ```src/tests``` directory
 All test specifications should be real it means that code like this ```expect(2 + 2).toBe(4)``` isn't good :)
 Code coverage is calculating by Jest framework and should be at least **90%** 
-
+111
 ## A pieces of advice
 - The application is written using **create-react-app** tool with pre-configured **jest** testing framework
 - ~~When you need~~ to use test doubles (mocking) please create directory ```src/__mocks__``` and put all mocking modules to this directory
